@@ -16,7 +16,7 @@ I'll publish projects here over the coming months. Each one is independent work,
 
 | Project | Focus | Status |
 |---|---|---|
-| SME data-readiness scorer | SME enablement | In progress |
+| SME data-readiness scorer | SME enablement | Delivered |
 | Data governance template library | Data governance | Planned |
 | Responsible AI checklist | AI governance | Planned |
 | Reference architecture for SME digital services | Architecture | Planned |
