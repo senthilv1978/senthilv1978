@@ -17,8 +17,8 @@ I'll publish projects here over the coming months. Each one is independent work,
 | Project | Focus | Status |
 |---|---|---|
 | SME data-readiness scorer | SME enablement | Delivered |
-| Data governance template library | Data governance | Planned |
-| Responsible AI checklist | AI governance | Planned |
+| Terra - Sovereign Ai | AI blueprint for Africa | Delivered |
+| CareGiver Agent | Agentic Operations | Delivered |
 | Reference architecture for SME digital services | Architecture | Planned |
 
 ## Writing and speaking
